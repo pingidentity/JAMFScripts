@@ -7,7 +7,7 @@
 # Brief Description: Overrides policies for admins to install ANY VPN
 ########################################################################
 
-plist='plist='locationtoyourplist''
+plist='locationtoyourplist'
 
 if [ -d "/usr/sbin/cocoaDialog.app" ]; then
 CD="/usr/sbin/cocoaDialog.app/Contents/MacOS/CocoaDialog"
