@@ -5,7 +5,6 @@ Creation Date: April, 2015
 Last modified: April, 18 2015
 
 Modified from: Andrina Kelly 
-
 with sniplets from work by: Bryson Tyrrell 
 
 --------------------------------------------------------
