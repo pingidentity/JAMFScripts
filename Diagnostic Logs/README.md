@@ -1,5 +1,5 @@
 ####Machine Diagnostic Logs Upload
-Modified By: Ross Derewianko  
+Modified By: Ross Derewianko
 For Ping Identity Corporation 2015 
 Creation Date: April, 2015
 Last modified: April, 18 2015
