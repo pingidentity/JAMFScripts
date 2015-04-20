@@ -1,0 +1,11 @@
+**Installation:**
+
+To make this work you'll need to update your my.cnf to allow a higher file size: 
+
+max_allowed_packet      = 16M <-- Change this to 30M
+
+To create the API simple auth key base encode a username and password, you can use an online base64 encoder like: [https://www.base64encode.org/][1]
+EG: admin:password becomes **YWRtaW46cGFzc3dvcmQ=**
+
+
+  [1]: https://www.base64encode.org/
