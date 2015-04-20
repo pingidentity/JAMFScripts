@@ -1,11 +1,11 @@
 ####Machine Diagnostic Logs Upload
-Modified By: Ross Derewianko 
-For Ping Identity Corporation 2015 
-Creation Date: April, 2015 
-Last modified: April, 18 2015 
+Modified By: Ross Derewianko
+For Ping Identity Corporation 2015
+Creation Date: April, 2015
+Last modified: April, 18 2015
 
-Modified from: Andrina Kelly 
-with sniplets from work by: Bryson Tyrrell 
+Modified from: Andrina Kelly
+with sniplets from work by: Bryson Tyrrell
 
 --------------------------------------------------------
 Machine Diagnostic Logs Upload
