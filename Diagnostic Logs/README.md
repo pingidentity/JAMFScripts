@@ -12,7 +12,6 @@ Machine Diagnostic Logs Upload
 --------------------------------------------------------
 #####Config Notes.
 
-
 To make this work you'll need to update your my.cnf on your Master JSS to allow a higher file size: 
 Look for this line: 
 max_allowed_packet      = 16M <-- Change this to 30M
