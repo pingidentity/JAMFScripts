@@ -1,6 +1,5 @@
 ####Machine Diagnostic Logs Upload
 Modified By: Ross Derewianko
-<<<<<<< HEAD
 
 For Ping Identity Corporation 2015
 
@@ -11,14 +10,6 @@ Last modified: April, 18 2015
 Modified from: Andrina Kelly 
 
 with sniplets from work by: Bryson Tyrrell 
-=======
-For Ping Identity Corporation 2015
-Creation Date: April, 2015
-Last modified: April, 18 2015
-
-Modified from: Andrina Kelly
-with sniplets from work by: Bryson Tyrrell
->>>>>>> ea78d4a37749b37730e0301910d172c30d9ac3e0
 
 --------------------------------------------------------
 Machine Diagnostic Logs Upload
