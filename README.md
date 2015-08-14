@@ -1,4 +1,4 @@
-JamfScripts
+Corp IT
 ===========
 
-Some of the internal scripts Ping Identity Runs on the JSS
+This Git contains Scripts Ping Identity Uses internally, aswell as presentations done by the IT group.
