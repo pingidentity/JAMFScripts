@@ -1,4 +1,3 @@
 Corp IT
 ===========
-
-This Git contains Scripts Ping Identity Uses internally, aswell as presentations done by the IT group.
+This Git has been moved [Here](https://github.com/pingidentity/CorpIT/tree/Main/JAMF%20Scripts)
